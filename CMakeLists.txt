@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.0)
 project(OPI_2)
-add_executable(OPI_2 main.cpp)
+add_executable(OPI_2 main.cpp hello.cpp hello.h)
